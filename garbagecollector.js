@@ -20,3 +20,4 @@ for (var name in Memory.spawns) {
         delete Memory.spawns[name];
     }
 }
+

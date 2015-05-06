@@ -37,3 +37,4 @@ for(var name in Game.spawns) {
 
 // Cleanup dead objects
 require('garbagecollector');
+
