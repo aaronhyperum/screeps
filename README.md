@@ -4,9 +4,7 @@
 
 **Be warned - Screeps is in alpha. The scripts are not guaranteed to work.**
 
-Hello there, this is Aaron.
-
-In this repo resides my scripts for the game 'Screeps' available here online (screeps.com). I hugely reccomend the game. It is an excellent learning tool for people of all ages and ranging between computer newbies to scripting professionals. I myself am not a scripting proffessional (though I do program) but this game has taught me quite a bit.
+I may or may not continue working on these. You may use them if you want, though. Very largely incomplete.
 
 # Before you start
 
@@ -40,7 +38,4 @@ RANGED_ATTACK
 HEAL
 ```
 There is an extra part, called TOUGH, which increases defense.
-
-ETC
-
 
